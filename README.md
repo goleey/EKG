@@ -1,5 +1,5 @@
-# CELink
-This is the code for the paper CELink
+# EKG
+This is the code for the paper EKG
 # Preparation
 To run the code, you first should download the embeddings of the words and the entities of the Wikipedia, where you can find them in https://nlp.stanford.edu/data/glove.6B.zip and http://openke.thunlp.org/. 
 
