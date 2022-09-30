@@ -41,4 +41,5 @@ Then in the folder entity_model, run the command:
 <code>
   python main.py --data_path /flickr_yelp/ --model model_with_entity --batch_size 8 --word_filter_threshold 0.8 --entity_filter_threshold 0.8 --n_epochs 50  --max_word_len_f 200 --max_word_len_t 200  --max_entity_length_f 200 --max_entity_length_t 200
   </code>
+
 The meanings of the arguments are described in the main.py.   
